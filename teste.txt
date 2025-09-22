@@ -1,1 +1,1 @@
-Só pra gerar um commit e subir o ambiente de Preview na Vercel
+Só pra gerar um commit e subir o ambiente de Preview na Vercel.
